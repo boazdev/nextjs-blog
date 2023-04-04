@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
         <p>I am the best fullstack developer hands down and there is no beating me</p>
         <p>
           NextJS is dope: 
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.
         </p>
       </section>
 	  {/* Add this <section> tag below the existing <section> tag */}
