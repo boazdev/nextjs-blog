@@ -1,4 +1,4 @@
-/* eslint-disable */
+// @ts-nocheck
 import Link from 'next/link';
 import Image from 'next/image';
 import Head from 'next/head';
