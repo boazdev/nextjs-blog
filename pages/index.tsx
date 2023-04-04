@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>I am the best fullstack developer hands down and there is no beating me</p>
         <p>
-          NextJS is dope: 
+          NextJS is dope: <br/>
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.
         </p>
       </section>
