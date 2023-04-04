@@ -13,6 +13,6 @@ type Data = {
   res.status(200).json({ name: 'John Doe' })
 }*/
 
-export default function handler(req:any, res:any) {
+export default function handler(req, res) {
   res.status(200).json({ text: 'Hello' });
 }
